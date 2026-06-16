@@ -14,6 +14,13 @@
 - [x] Anexo: ejemplo de estados contables (Edenor S.A.) → `./ejemplo-edenor.md`
   (caso aplicado resuelto en `practica/ejercicios/caso-01-edenor.md`)
 
+## Complemento (material de clase, fuera del TOC oficial)
+
+Temas que el deck de clase `epi09_contavs_09` desarrolla y el apunte oficial no:
+
+- [x] Análisis financiero por índices y ecuación de Du Pont → `./analisis-por-indices.md`
+- [x] Ciclo de caja, ciclo operativo y NOF vs. fondo de maniobra → `./ciclo-de-caja-y-nof.md`
+
 ## Referencias
 
 - Apunte EPI, Parte 1 — Contabilidad, doc p. 1–17 (físicas 5–21)

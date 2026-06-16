@@ -15,6 +15,12 @@
 - [x] Estimación de costos → `./estimacion-de-costos.md`
 - [x] Optimización del diseño minimizando costos → `./optimizacion-del-diseno.md`
 
+## Complemento (material de clase, fuera del TOC oficial)
+
+Tema que el deck de clase `epi09_costos_09` formaliza y el apunte oficial no:
+
+- [x] Costos del producto vs. del período (y flujo MP→PP→PT→CMV) → `./costos-producto-vs-periodo.md`
+
 ## Práctica relacionada
 
 - Casos de aplicación del análisis marginal (2.5.4) →

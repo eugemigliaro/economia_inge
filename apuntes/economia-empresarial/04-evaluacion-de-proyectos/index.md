@@ -12,6 +12,14 @@
 - [x] Caso integrador de evaluación de proyectos → `practica/ejercicios/caso-04-evaluacion-de-proyectos.md`
 - [x] Aplicaciones: minimización de costos y vida económica → `./vida-economica.md`
 
+## Complemento (material de clase / Palandella, fuera del TOC oficial)
+
+Temas que los decks `epi09_pc` y "EPI virtual (Palandella) — Proyectos" desarrollan y el apunte oficial no:
+
+- [x] Determinación de la TREMA / costo de capital (WACC, CAPM, Gordon) → `./trema.md`
+- [x] Conflicto VAN vs. TIR, tasa de Fisher y TIR múltiples → `./conflicto-van-tir.md`
+- [x] Armado del flujo del proyecto (criterio incremental, capital de trabajo, valor terminal, impuestos) → `./armado-del-flujo-del-proyecto.md`
+
 ## Referencias
 
 - Apunte EPI, Parte 4 — Evaluación de Proyectos, doc p. 57–77 (físicas 61–81)
